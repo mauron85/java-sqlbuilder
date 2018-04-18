@@ -1,0 +1,8 @@
+# Android/IJ
+.idea
+.gradle
+local.properties
+*.iml
+build
+*.skip
+
